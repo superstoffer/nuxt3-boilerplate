@@ -1,4 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Boilerplate
+
+This is a boilerplate repo configured with Nuxt 3, Tailwind CSS, HeroIcons and HeadlessUI ready for development.
+
+Currently, the package is configured with:
+* Nuxt 3
+* Tailwind CSS
+* Tailwind CSS Forms plugin
+* Post CSS
+* HeroIcons
+* Headless UI
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
