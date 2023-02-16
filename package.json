@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.4",
-    "@heroicons/vue": "^2.0.13",
+    "@heroicons/vue": "^2.0.14",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.8"
