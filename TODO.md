@@ -1,0 +1,13 @@
+# Todo
+- [ ] Upgrade to latest version of Nuxt 3
+- [ ] Make compatible with Nuxt 4
+- [ ] Switch to use Nuxt UI
+- Include the following packages
+- [ ] VueUse - https://vueuse.org/nuxt/README.html
+- [ ] NuxtSEO – https://nuxtseo.com/
+- [ ] AutoAnimate – https://auto-animate.formkit.com/
+- [ ] Nuxt Fonts – https://fonts.nuxt.com/
+- [ ] Nuxt ESLint – https://eslint.nuxt.com/
+- [ ] Nuxt Icon – https://nuxt.com/modules/icon
+- [ ] Color Mode – https://color-mode.nuxtjs.org/
+- [ ] Nuxt Content – https://content.nuxtjs.org/
